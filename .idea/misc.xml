@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Materi Kuliah/Mobile/MySQL/app/src/main/res/layout/activity_edit_teman.xml" value="0.1796875" />
         <entry key="..\:/Materi Kuliah/Mobile/MySQL/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
         <entry key="..\:/Materi Kuliah/Mobile/MySQL/app/src/main/res/layout/activity_tambah_teman.xml" value="0.1796875" />
+        <entry key="..\:/Materi Kuliah/Mobile/MySQL/app/src/main/res/layout/popup1.xml" value="0.14130434782608695" />
         <entry key="..\:/Materi Kuliah/Mobile/MySQL/app/src/main/res/layout/row_data_tambah_teman.xml" value="0.1796875" />
         <entry key="..\:/Materi Kuliah/Mobile/MySQL/app/src/main/res/layout/row_data_teman.xml" value="0.1796875" />
+        <entry key="..\:/Materi Kuliah/Mobile/MySQL/app/src/main/res/menu/popup1.xml" value="0.1796875" />
       </map>
     </option>
   </component>
